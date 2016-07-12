@@ -14,12 +14,12 @@
 [Github](https://github.com/flareair/)  
 [Linkedin](https://www.linkedin.com/in/axenov-yaroslav-65165075)  
 [VK](https://vk.com/yarapryanik)  
-[flareair0@gmail.com](flareair0@gmail.com)  
+flareair0@gmail.com
 
 ##Опыт работы
 
 ###ООО Предприятие 2.0  
-Август 2014г - настоящее время  
+Август 2014 г - настоящее время  
 
 **Обязанности:**
 
@@ -28,12 +28,13 @@
 - Администрирование корпоративного MSP Service Desk
 
 ##Навыки
-**frontend:** pure js, angular.js, jquery, adaptive css, html5  
-**backend:** node.js, express.js, mongoose, mongodb, mysql, php5.6+, php cms
-**testing:** karma.js, mocha.js, chai.js, sinon.js, protractor, phpunit
-**devops/ci:** docker, docker-compose, travis-ci  
-**vcs:** git, git-flow  
-**os:** debian based linux  
+
+- **frontend:** pure js, angular.js, jquery, adaptive css, html5  
+- **backend:** node.js, express.js, mongoose, mongodb, mysql, php5.6+, php cms  
+- **testing:** karma.js, mocha.js, chai.js, sinon.js, protractor, phpunit  
+- **devops/ci:** docker, docker-compose, travis-ci  
+- **vcs:** git, git-flow  
+- **os:** debian based linux  
 
 ##Cертификаты
 
@@ -60,4 +61,4 @@
 
 ## Внерабочие интересы
 
-Гитары, фитнес, музыка, книги, космос
+Гитары, фитнес, музыка, книги, естественные науки, космос
