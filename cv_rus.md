@@ -1,24 +1,25 @@
-#Резюме
+# Резюме
 
 **Желаема должность:** frontend/fullstack web-developer
 
-##Личное
+## Личное
 
 **ФИО:** Аксенов Ярослав Станиславович  
 **Город:** Санкт-Петербург, Россия  
 **Образование:** Высшее техническое  
 **Год рождения:** 1991
 
-##Ссылки и контакты
+## Ссылки и контакты
 
 [Github](https://github.com/flareair/)  
 [Linkedin](https://www.linkedin.com/in/axenov-yaroslav-65165075)  
 [VK](https://vk.com/yarapryanik)  
-flareair0@gmail.com
 
-##Опыт работы
+flareair0@gmail.com  
 
-###ООО Предприятие 2.0  
+## Опыт работы
+
+### ООО Предприятие 2.0  
 Август 2014 г - настоящее время  
 
 **Обязанности:**
@@ -27,7 +28,7 @@ flareair0@gmail.com
 - Администрирование выделенного linux сервера с фермой docker-контейнеров
 - Администрирование корпоративного MSP Service Desk
 
-##Навыки
+## Навыки
 
 - **frontend:** es6, angular.js, jquery, adaptive css, html5, grunt, webpack  
 - **backend:** node.js, express.js, mongodb, mysql, php5.6+, php cms  
@@ -36,7 +37,7 @@ flareair0@gmail.com
 - **vcs:** git, git-flow  
 - **os:** debian based linux  
 
-##Cертификаты
+## Cертификаты
 
 - [Zend Certified PHP Engineer](http://www.zend.com/en/yellow-pages/ZEND027838)
 - [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/course_completion/11c8fba976934623b8c599c494b3e84f)
@@ -46,13 +47,13 @@ flareair0@gmail.com
 - [HTML Certification](https://certification.mail.ru/certificates/44dd13e6-7784-49d3-8c79-fae58617d989/)
 - [CSS Certification](https://certification.mail.ru/certificates/5dcab38b-e9ab-4323-87e4-50ca4f4ce178/)
 
-##Языки
+## Языки
 
 русский - native
 english - upper intermediate
 
 
-##Образование
+## Образование
 
 **Высщее техническое, квалификация - инженер**  
 **Университет:** РГПУ им. Герцена 2009-2014 г  
