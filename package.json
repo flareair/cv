@@ -1,0 +1,22 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "**Желаема должность:** frontend/fullstack web-developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flareair/cv.git"
+  },
+  "author": "flareair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flareair/cv/issues"
+  },
+  "homepage": "https://github.com/flareair/cv#readme",
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  }
+}

@@ -29,8 +29,8 @@ flareair0@gmail.com
 
 ##Навыки
 
-- **frontend:** pure js, angular.js, jquery, adaptive css, html5  
-- **backend:** node.js, express.js, mongoose, mongodb, mysql, php5.6+, php cms  
+- **frontend:** es6, angular.js, jquery, adaptive css, html5, grunt, webpack  
+- **backend:** node.js, express.js, mongodb, mysql, php5.6+, php cms  
 - **testing:** karma.js, mocha.js, chai.js, sinon.js, protractor, phpunit  
 - **devops/ci:** docker, docker-compose, travis-ci  
 - **vcs:** git, git-flow  
@@ -45,6 +45,11 @@ flareair0@gmail.com
 - [Основы постановки задачи на разработку программ](https://stepic.org/certificate/8fbb4bffc8414dbe4abfabfae282b54e058fd0dc.pdf)
 - [HTML Certification](https://certification.mail.ru/certificates/44dd13e6-7784-49d3-8c79-fae58617d989/)
 - [CSS Certification](https://certification.mail.ru/certificates/5dcab38b-e9ab-4323-87e4-50ca4f4ce178/)
+
+##Языки
+
+русский - native
+english - upper intermediate
 
 
 ##Образование
