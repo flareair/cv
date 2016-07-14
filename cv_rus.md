@@ -44,8 +44,7 @@ flareair0@gmail.com
 - [FreeCodeCamp Front End Development](https://www.freecodecamp.com/flareair/front-end-certification)
 - [Анализ безопасности веб-проектов](https://stepic.org/certificate/edae0f0025b033b43308a6ac45b7ebeb0f0eb8e8.pdf)
 - [Основы постановки задачи на разработку программ](https://stepic.org/certificate/8fbb4bffc8414dbe4abfabfae282b54e058fd0dc.pdf)
-- [HTML Certification](https://certification.mail.ru/certificates/44dd13e6-7784-49d3-8c79-fae58617d989/)
-- [CSS Certification](https://certification.mail.ru/certificates/5dcab38b-e9ab-4323-87e4-50ca4f4ce178/)
+
 
 ## Языки
 
@@ -60,7 +59,7 @@ english - intermediate++
 
 ## Для работодателя
 
-**Мне интересно:** работа в команде с более опытными коллегами, code review, использование современных технологий, интересны задачи, качественный код, хорошая ЗП и соц. пакет, хорошее рабочее место  
+**Мне интересно:** работа в команде с более опытными коллегами, code review, использование современных технологий, интересные задачи, качественный код, конкурентная ЗП и соц. пакет, хорошее рабочее место  
 
 **Мне не интересно:** тяп-ляп и в продакшен, нереальные сроки, переработки, веб-студии с конвеером типовых лендингов и магазинов, коллеги, застрявшие в 90х  
 
