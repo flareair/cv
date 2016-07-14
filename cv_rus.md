@@ -49,9 +49,8 @@ flareair0@gmail.com
 
 ## Языки
 
-русский - native
-english - intermediate++
-
+русский - native  
+english - intermediate++  
 
 ## Образование
 
