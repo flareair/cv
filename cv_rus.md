@@ -25,6 +25,10 @@ flareair0@gmail.com
 **Обязанности:**
 
 - Разработка и сопровождение коммерческих web-проектов (frontend/backend/deploy)
+    - Адаптивная верстка
+    - Клиент (angular, jquery, native js)
+    - Сервер (php, nodejs)
+    - Деплой (docker)
 - Администрирование выделенного linux сервера с фермой docker-контейнеров
 - Администрирование корпоративного MSP Service Desk
 
