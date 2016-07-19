@@ -25,10 +25,10 @@ August 2014 - nowadays
 **Responsibilities:**
 
 - Develop and support of commercial web-app  (frontend/backend/deploy)
-..- Adaptive markup
-..- Client side coding (angular, jquery, native js)
-..- Backend (php, nodejs)
-..- Deploy (docker)
+    - Adaptive markup
+    - Client side coding (angular, jquery, native js)
+    - Backend (php, nodejs)
+    - Deploy (docker)
 - *nix server administrating (with docker)
 - Corporate MSP Service Desk administrating
 
