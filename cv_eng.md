@@ -57,7 +57,7 @@ english - intermediate++
 
 ## Education
 
-**BS in Computer Science  
+**BS in Computer Science**  
 **University:** Herzen University 2009-2014 г  
 **Specialty:** IT in education  
 
