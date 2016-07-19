@@ -16,6 +16,7 @@
 [VK](https://vk.com/yarapryanik)  
 
 flareair0@gmail.com  
++7 (921) 636 42 06  
 
 ## Professional exprerience
 
@@ -24,7 +25,7 @@ August 2014 - nowadays
 
 **Responsibilities:**
 
-- Develop and support of commercial web apps and sites  (frontend/backend/deploy)
+- Develop and support of commercial web apps and sites (frontend/backend/deploy)
     - Adaptive markup
     - Client side coding (angular, jquery, native js)
     - Backend (php, nodejs)

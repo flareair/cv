@@ -16,6 +16,7 @@
 [VK](https://vk.com/yarapryanik)  
 
 flareair0@gmail.com  
++7 (921) 636 42 06  
 
 ## Опыт работы
 
