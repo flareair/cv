@@ -24,7 +24,7 @@ August 2014 - nowadays
 
 **Responsibilities:**
 
-- Develop and support of commercial web-app  (frontend/backend/deploy)
+- Develop and support of commercial web apps and sites  (frontend/backend/deploy)
     - Adaptive markup
     - Client side coding (angular, jquery, native js)
     - Backend (php, nodejs)
