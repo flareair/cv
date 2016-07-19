@@ -1,6 +1,7 @@
 # My CV
 
-Russian version [here](cv_rus.md)
+[Russian version](cv_rus.md)
+[English version](cv_eng.md)
 
 
 ## To compile
